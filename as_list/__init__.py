@@ -8,6 +8,6 @@ __all__ = ["as_list"]
 
 def as_list(obj):
     if isinstance(obj, (list, tuple)):
-        return input
+        return obj
 
     return [obj]
