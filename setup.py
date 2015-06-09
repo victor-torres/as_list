@@ -2,13 +2,13 @@ import setuptools
 
 setuptools.setup(
     name="as_list",
-    version="0.1",
+    version="0.2",
     url="https://github.com/victor-torres/as_list",
 
     author="Victor Torres",
     author_email="vpaivatorres@gmail.com",
 
-    description="Returns list, tuple or single element list",
+    description="Verifies if giving object is list or tuple; if not returns a list with it as single element",
     long_description=open('README.md').read(),
 
     packages=setuptools.find_packages(),
