@@ -3,7 +3,7 @@ Status](https://travis-ci.org/victor-torres/as_list.png)](https://travis-ci.org/
 
 # as_list
 
-Verifies it giving object is a list or tuple; if not, returns a list with it as single element.
+Verifies if giving object is list or tuple; if not returns a list with it as single element.
 
 ## Why write
 
