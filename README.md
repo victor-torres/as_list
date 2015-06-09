@@ -3,7 +3,9 @@ Status](https://travis-ci.org/victor-torres/as_list.png)](https://travis-ci.org/
 
 # as_list
 
-## Shortcut for
+Verifies it giving object is a list or tuple; if not, returns a list with it as single element.
+
+## Why write
 
 ```python
 thing_list = "single"
@@ -15,7 +17,7 @@ for thing in thing_list:
   do_something(thing)
 ```
 
-## Becomes
+## When you can ~lazy~ this
 
 ```python
 thing_list = "single"
