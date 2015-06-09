@@ -1,7 +1,9 @@
-[![Build
-Status](https://travis-ci.org/victor-torres/as_list.png)](https://travis-ci.org/victor-torres/as_list)
+[![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/gluten-free.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
 
-# as_list
+# as_list [![Build Status](https://travis-ci.org/victor-torres/as_list.png)](https://travis-ci.org/victor-torres/as_list)
 
 Verifies if giving object is list or tuple; if not returns a list with it as single element.
 
