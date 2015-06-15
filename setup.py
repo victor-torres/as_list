@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="as-list",
+    name="as_list",
     version="0.2",
     url="https://github.com/victor-torres/as_list",
 
