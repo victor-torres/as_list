@@ -31,5 +31,5 @@ for thing in as_list(thing_list):
 ## Install
 
 ```shell
-$ pip install git+https://github.com/victor-torres/as_list.git
+$ pip install as_list
 ```
