@@ -9,7 +9,6 @@ setuptools.setup(
     author_email="vpaivatorres@gmail.com",
 
     description="Verifies if giving object is list or tuple; if not returns a list with it as single element",
-    long_description=open('README.md').read(),
 
     packages=setuptools.find_packages(),
 
